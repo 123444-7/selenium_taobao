@@ -2,6 +2,7 @@ from time import sleep
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
+
 def get_list():
     """
     获取淘宝所有订单信息并转成list输出
